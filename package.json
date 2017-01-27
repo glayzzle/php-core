@@ -21,11 +21,8 @@
     "url": "https://github.com/glayzzle/php-core/issues"
   },
   "homepage": "https://github.com/glayzzle/php-core#readme",
-  "dependencies": {
-    "locutus": "^2.0.6"
-  },
   "devDependencies": {
-    "doc-parser": "^0.4.4",
-    "php-parser": "^2.0.0-alpha.2"
+    "doc-parser": "^0.4.6",
+    "php-parser": "^2.0.0-pre4"
   }
 }
