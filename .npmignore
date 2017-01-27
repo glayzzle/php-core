@@ -1,0 +1,6 @@
+/docs/
+/test/
+/bin/
+/.coveralls.yml
+/.istanbul.yml
+/.travis.yml
