@@ -1,0 +1,31 @@
+{
+  "name": "php-core",
+  "version": "1.0.0",
+  "description": "Bindings for php-runtime in order to mimick PHP core functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glayzzle/php-core.git"
+  },
+  "keywords": [
+    "php",
+    "glayzzle",
+    "module"
+  ],
+  "author": "Ioan CHIRIAC",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/glayzzle/php-core/issues"
+  },
+  "homepage": "https://github.com/glayzzle/php-core#readme",
+  "dependencies": {
+    "locutus": "^2.0.6"
+  },
+  "devDependencies": {
+    "doc-parser": "^0.4.4",
+    "php-parser": "^2.0.0-alpha.2"
+  }
+}

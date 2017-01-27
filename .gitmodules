@@ -1,0 +1,3 @@
+[submodule "bin/stubs"]
+	path = bin/stubs
+	url = https://github.com/glayzzle/phpstorm-stubs.git
